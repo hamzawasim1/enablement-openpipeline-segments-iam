@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://scaling-fishstick-wjrj6pjpjqjh56vv-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://scaling-fishstick-wjrj6pjpjqjh56vv-30100.app.github.dev"  
