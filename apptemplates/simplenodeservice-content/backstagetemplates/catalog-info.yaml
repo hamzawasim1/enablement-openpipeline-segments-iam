@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/hamzawasim1/enablement-openpipeline-segments-iam.git
       title: Github Repo
       icon: github
-    - url: https://scaling-fishstick-wjrj6pjpjqjh56vv-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://scaling-fishstick-wjrj6pjpjqjh56vv-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
